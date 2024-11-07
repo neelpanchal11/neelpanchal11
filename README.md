@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on optimizing machine learning models for space applications.<br>👯 I’m looking to collaborate on Data Science Projects.<br>🤝 I’m looking for help with integrating Data Science and Astronomy.<br>🌱 I’m currently learning Physics at Northwestern University.<br>💬 Ask me about leveraging data analytics in space research.<br>⚡ Fun fact: If the Earth were compressed to the density of a black hole, it would be roughly the size of a pea.
+🔭 I’m currently working on optimizing machine learning models for space applications.<br>👯 I’m looking to collaborate on Finance & Data Science Projects.<br>🌱 I’m currently learning Physics at Northwestern University.<br>💬 Ask me about leveraging data analytics in space research.<br>⚡ Fun fact: If the Earth were compressed to the density of a black hole, it would be roughly the size of a pea.
 
 
 ## 🌐 Socials:
